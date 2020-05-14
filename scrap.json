@@ -1,0 +1,162 @@
+[
+    {
+        "rank": "1",
+        "short_name": "BTC",
+        "title": "Bitcoin",
+        "img_url": "https://static.coincap.io/assets/icons/btc@2x.png",
+        "price": "7,273.63",
+        "mCap": "129.59b"
+    },
+    {
+        "rank": "2",
+        "short_name": "ETH",
+        "title": "Ethereum",
+        "img_url": "https://static.coincap.io/assets/icons/eth@2x.png",
+        "price": "169.14",
+        "mCap": "18.89b"
+    },
+    {
+        "rank": "3",
+        "short_name": "XRP",
+        "title": "",
+        "img_url": "https://static.coincap.io/assets/icons/xrp@2x.png",
+        "price": "0.19814966",
+        "mCap": "8.13b"
+    },
+    {
+        "rank": "4",
+        "short_name": "USDT",
+        "title": "Tether",
+        "img_url": "https://static.coincap.io/assets/icons/usdt@2x.png",
+        "price": "1.00",
+        "mCap": "6.37b"
+    },
+    {
+        "rank": "5",
+        "short_name": "BCH",
+        "title": "Bitcoin Cash",
+        "img_url": "https://static.coincap.io/assets/icons/bch@2x.png",
+        "price": "255.27",
+        "mCap": "4.26b"
+    },
+    {
+        "rank": "6",
+        "short_name": "BSV",
+        "title": "Bitcoin SV",
+        "img_url": "https://static.coincap.io/assets/icons/bsv@2x.png",
+        "price": "213.34",
+        "mCap": "3.57b"
+    },
+    {
+        "rank": "7",
+        "short_name": "LTC",
+        "title": "Litecoin",
+        "img_url": "https://static.coincap.io/assets/icons/ltc@2x.png",
+        "price": "45.97",
+        "mCap": "2.72b"
+    },
+    {
+        "rank": "8",
+        "short_name": "EOS",
+        "title": "",
+        "img_url": "https://static.coincap.io/assets/icons/eos@2x.png",
+        "price": "2.71",
+        "mCap": "2.42b"
+    },
+    {
+        "rank": "9",
+        "short_name": "BNB",
+        "title": "Binance Coin",
+        "img_url": "https://static.coincap.io/assets/icons/bnb@2x.png",
+        "price": "14.96",
+        "mCap": "2.40b"
+    },
+    {
+        "rank": "10",
+        "short_name": "XTZ",
+        "title": "Tezos",
+        "img_url": "https://static.coincap.io/assets/icons/xtz@2x.png",
+        "price": "2.08",
+        "mCap": "1.49b"
+    },
+    {
+        "rank": "11",
+        "short_name": "LINK",
+        "title": "Chainlink",
+        "img_url": "https://static.coincap.io/assets/icons/link@2x.png",
+        "price": "3.32",
+        "mCap": "1.21b"
+    },
+    {
+        "rank": "12",
+        "short_name": "XMR",
+        "title": "Monero",
+        "img_url": "https://static.coincap.io/assets/icons/xmr@2x.png",
+        "price": "58.38",
+        "mCap": "995.26m"
+    },
+    {
+        "rank": "13",
+        "short_name": "XLM",
+        "title": "Stellar",
+        "img_url": "https://static.coincap.io/assets/icons/xlm@2x.png",
+        "price": "0.05085395",
+        "mCap": "992.14m"
+    },
+    {
+        "rank": "14",
+        "short_name": "ADA",
+        "title": "Cardano",
+        "img_url": "https://static.coincap.io/assets/icons/ada@2x.png",
+        "price": "0.03570620",
+        "mCap": "894.47m"
+    },
+    {
+        "rank": "15",
+        "short_name": "TRX",
+        "title": "TRON",
+        "img_url": "https://static.coincap.io/assets/icons/trx@2x.png",
+        "price": "0.01336265",
+        "mCap": "859.95m"
+    },
+    {
+        "rank": "16",
+        "short_name": "HT",
+        "title": "Huobi Token",
+        "img_url": "https://static.coincap.io/assets/icons/ht@2x.png",
+        "price": "3.87",
+        "mCap": "855.01m"
+    },
+    {
+        "rank": "17",
+        "short_name": "DASH",
+        "title": "Dash",
+        "img_url": "https://static.coincap.io/assets/icons/dash@2x.png",
+        "price": "81.61",
+        "mCap": "720.61m"
+    },
+    {
+        "rank": "18",
+        "short_name": "ETC",
+        "title": "Ethereum Classic",
+        "img_url": "https://static.coincap.io/assets/icons/etc@2x.png",
+        "price": "5.80",
+        "mCap": "630.71m"
+    },
+    {
+        "rank": "19",
+        "short_name": "ATOM",
+        "title": "Cosmos",
+        "img_url": "https://static.coincap.io/assets/icons/atom@2x.png",
+        "price": "2.56",
+        "mCap": "592.43m"
+    },
+    {
+        "rank": "20",
+        "short_name": "NEO",
+        "title": "Neo",
+        "img_url": "https://static.coincap.io/assets/icons/neo@2x.png",
+        "price": "7.99",
+        "mCap": "532.78m"
+    }
+]
